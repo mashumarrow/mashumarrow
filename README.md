@@ -1,4 +1,6 @@
 ## Hi there 👋
+
+![](https://komarev.com/ghpvc/?username=mashumarrow&color=blueviolet&style=flat-square)
 https://github.com/ayanost
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/mashumarrow/mashumarrow/output/github-contribution-grid-snake-dark.svg">
