@@ -1,4 +1,4 @@
-## Hi there 👋
+## Welcome 👋
 
 もう一つのアカウント:</br>
 https://github.com/ayanost
